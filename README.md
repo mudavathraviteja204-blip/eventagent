@@ -108,3 +108,4 @@ Open your browser at `http://localhost:8501` and start chatting with your calend
 ## 🔒 Security Note
 
 Never commit `.env`, `credentials.json`, or `token.json` to version control. They are listed in `.gitignore` by default to keep your credentials safe.
+
